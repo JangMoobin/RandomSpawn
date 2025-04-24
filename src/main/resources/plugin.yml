@@ -1,0 +1,6 @@
+name: RandomSpawn
+version: 1.0
+main: me.MoobinJang.randomspawn.RandomSpawnPlugin
+api-version: 1.21
+author: MoobinJang
+description: Connect to a random spawn when first connecting

@@ -1,0 +1,7 @@
+# 랜덤 스폰 설정
+spawn:
+  minX: -100
+  maxX: 100
+  minZ: -100
+  maxZ: 100
+  world: "world"
